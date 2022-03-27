@@ -1,7 +1,9 @@
 # web-scraping
 Web Scraping com Puppeteer
 
-Para rodar o código:
+Dependências:
+**puppeteer**
+**readline-sync**
 
 `npm i puppeteer`
 
