@@ -3,6 +3,6 @@ Web Scraping com Puppeteer
 
 Para rodar o código:
 
-`npm i puppeter`
+`npm i puppeteer`
 
 `npm i readline-sync`
