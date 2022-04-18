@@ -3,4 +3,4 @@ Web Scraping com Puppeteer
 
 Dependências: **puppeteer** e **readline-sync**
 
-`npm install'
+`npm install`
